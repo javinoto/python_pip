@@ -1,9 +1,9 @@
-# Game Project
+# Platzi Projects
 
 Proyecto de curso de Python: PIP y Entornos Virtuales
 
 
-## Steps
+## Game Project
 
 Para correr el juego debes seguir las siguientes instrucciones en la terminal
 
